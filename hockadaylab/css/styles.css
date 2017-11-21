@@ -1,0 +1,29 @@
+.col1{
+    background: gray;
+     border: solid black .5px;
+     border-radius: 13px;
+}
+
+.col2{
+    background: #22A5E2;
+     border: solid black .5px;
+     border-radius: 13px;
+}
+
+.col3{
+    background: #22A5E2;
+    border: solid black .5px;
+    border-radius: 13px;
+}
+
+.col4{
+    background: #FF384E;
+     border: solid black .5px;
+     border-radius: 13px;
+}
+a{
+    color:black;
+}
+#nav{
+    border-radius: 13px;
+}
